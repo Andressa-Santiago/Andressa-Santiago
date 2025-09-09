@@ -2,11 +2,11 @@
 <h1 align="center">Olá,Eu sou Andressa Santiago 👋</h1>
  
 <p align="center">
-<!-- aqui vc colocar sua profissão, Design grafico, Desenvolvedor front end -->
+<!-- aqui vc colocar sua profissão, Design grafico -->
 <em>Designer Web • Designer Gráfico </em>
 </p>
  
----
+
 <!-- coloca uma descrição sua -->
 <p align="center">
   Apaixonado por design e experiências visuais que unem estética e funcionalidade. Crio projetos usando Figma, Photoshop, Canva, HTML e CSS para transformar ideias em interfaces marcantes.
@@ -14,17 +14,15 @@
  
  
 <p align="center">
-<!-- coloca o link do seu github no lugar do meu-->
+<!-- coloca o link do github -->
 <a href="https://www.linkedin.com/in/dressa-santiago/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<!-- vc troca e coloca seu gmail profissional -->
+<!-- Gmail profissional -->
 <a href="mailto:pro.andressasanti@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 </p>
- 
----
  
 ### Linguagens e Tecnologias
  
@@ -90,7 +88,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
  
 <br>
 <br>
----
  
 ### Principais Tecnologias da Stack
  
@@ -100,8 +97,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <!-- no username vc coloca o seu usuario no github-->
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Santiago&layout=compact&hide_border=true&title_color=f6abd0&text_color=ffffff&bg_color=0d1117" />
 </p>
- 
----
  
 ### 🟪 Impulso do Último Commit
  
