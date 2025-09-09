@@ -1,5 +1,5 @@
-<!-- altera para o seu nome, vai traduzindo se quiser-->
-<h1 align="center">Ola, eu sou Andressa Santiago 👋</h1>
+<!-- altera para o seu nome -->
+<h1 align="center">Olá,Eu sou Andressa Santiago 👋</h1>
  
 <p align="center">
 <!-- aqui vc colocar sua profissão, Design grafico, Desenvolvedor front end -->
@@ -26,7 +26,7 @@
  
 ---
  
-### 🤖 Languages and Tecnologies
+### Linguagens e Tecnologias
  
 <!-- aqui vc vai no site  devicon.dev e coloca as ferramentas no lugar,  vc vai pesquisar a ferramenta, figma por exemplo, e copiar o codigo SVG -->
 <!-- o link que deve ser copiado: https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg -->
@@ -92,7 +92,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <br>
 ---
  
-### 💻 Tech Stack Highlights
+### Principais Tecnologias da Stack
  
  
 <p align="center">
@@ -103,7 +103,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
  
 ---
  
-### 🟩 Latest Commit Energy
+### 🟪 Impulso do Último Commit
  
 <!-- no username vc coloca o seu usuario no github-->
 <!-- tem como vc mudar as cores
