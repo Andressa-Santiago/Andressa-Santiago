@@ -1,5 +1,5 @@
 <!-- altera para o seu nome -->
-<h1 align="center">Olá,Eu sou Andressa Santiago 👋</h1>
+<h1 align="center">Olá, eu sou Andressa Santiago 👋</h1>
  
 <p align="center">
 <!-- aqui vc colocar sua profissão, Design grafico -->
@@ -98,7 +98,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Santiago&layout=compact&hide_border=true&title_color=f6abd0&text_color=ffffff&bg_color=0d1117" />
 </p>
  
-### 🟪 Impulso do Último Commit
+### Impulso do Último Commit
  
 <!-- no username vc coloca o seu usuario no github-->
 <!-- tem como vc mudar as cores
@@ -109,5 +109,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 </p>
  
 <p align="center">
-<em>Keep building. One commit at a time.</em> 🟩
+<em>Continue construindo. Um commit de cada vez.</em>
 </p>
