@@ -89,9 +89,9 @@
 
 <p align="center">
       <samp>
-        ♡ <a href="https://github.com/Andressa-Santiago" style="color:#ffc3f7; text-decoration: none;">projetos</a> ⊹
-        <a href="https://www.behance.net/andresssantiag4" style="color:#ffc3f7; text-decoration: none;">portfolio</a> ⊹
-        <a href="mailto:pro.andressasanti@gmail.com" style="color:#ffc3f7; text-decoration: none;">contato</a> ♡
+        ♡ <a href="https://github.com/Andressa-Santiago">projetos</a> ⊹
+        <a href="https://www.behance.net/andresssantiag4">portfolio</a> ⊹
+        <a href="mailto:pro.andressasanti@gmail.com">contato</a> ♡
       </samp>
   </p>
 
