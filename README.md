@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      Designer Web • Designer Gráfico
+      Designer Web • Designer Gráfico • UX/UI
       <br>
       Olá, eu sou Andressa Santiago !
       <br>
@@ -89,9 +89,9 @@
 
 <p align="center">
       <samp>
-        ♡ <a href="https://github.com/Andressa-Santiago">projetos</a> ⊹
-        <a href="https://www.behance.net/andresssantiag4">portfolio</a> ⊹
-        <a href="mailto:pro.andressasanti@gmail.com">contato</a> ♡
+        ♡ <a href="https://github.com/Andressa-Santiago" style="color:#ffc3f7;">projetos</a> ⊹
+        <a href="https://www.behance.net/andresssantiag4" style="color:#ffc3f7;">portfolio</a> ⊹
+        <a href="mailto:pro.andressasanti@gmail.com" style="color:#ffc3f7;">contato</a> ♡
       </samp>
   </p>
 
