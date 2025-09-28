@@ -23,7 +23,7 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffc3f7&width=900&size=21&center=true&lines=Sou+do+Brasil;Designer+Web+e+Gráfico;Apaixonada+por+design+e+funcionalidade;Criando+experiências+visuais+únicas;Seja+bem-vindo!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=ffc3f7&width=900&size=21&center=true&lines=Sou+do+Brasil;Designer+Web+e+Gr%C3%A1fico;Apaixonada+por+design+e+funcionalidade;Criando+experi%C3%AAncias+visuais+%C3%BAnicas;Seja+bem-vindo!" alt="Typing SVG"/>
 </div>
 
 <br>
