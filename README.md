@@ -49,6 +49,15 @@
         <img  src="https://github-readme-stats.vercel.app/api?username=Andressa-Santiago&show_icons=true&theme=github_dark&hide_border=true&title_color=ffc3f7&icon_color=c599de&text_color=ffffff" />
       </td>
     </tr>
+    <tr>
+      <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anabcodes/anabcodes/output/pacman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anabcodes/anabcodes/output/pacman-contribution-graph.svg">
+        <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anabcodes/anabcodes/output/pacman-contribution-graph.svg">
+      </picture>
+    </td>
+  </tr>
   </table>
 
 </div>
