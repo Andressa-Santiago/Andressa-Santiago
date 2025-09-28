@@ -9,8 +9,7 @@
       <br>
 </div>
 <div align="center">
-  <p align="center">![Profile Visits](https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndressa-Santiago&s=21&c=eb1d27&bg=000000&ff=digi&tb=Profile%20Visits%3A%20)
-</p> 
+<img src = "https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FAndressa-Santiago&s=21&c=eb1d27&bg=000000&ff=digi&tb=Profile%20Visits%3A%20" alt=""/>
 </div>
       
 <br>
