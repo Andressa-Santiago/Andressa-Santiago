@@ -46,7 +46,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Santiago&layout=compact&hide_border=true&title_color=f6abd0&text_color=ffffff&bg_color=0d1117" />
       </td>
       <td>
-        <img  src="https://github-readme-stats.vercel.app/api?username=Andressa-Santiago&show_icons=true&theme=github_dark&hide_border=true&title_color=f6abd0&icon_color=c599de&text_color=ffffff&include_all_commits=true" />
+        <img  src="https://github-readme-stats.vercel.app/api?username=Andressa-Santiago&show_icons=true&theme=github_dark&hide_border=true&title_color=f6abd0&icon_color=c599de&text_color=ffffff" />
       </td>
     </tr>
   </table>
