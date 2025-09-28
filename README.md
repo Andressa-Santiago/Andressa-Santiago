@@ -40,7 +40,17 @@
     </summary>
     <br>
 <div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Santiago&layout=compact&hide_border=true&title_color=5badc7&text_color=ffffff&bg_color=0d1117" alt=""></p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Santiago&layout=compact&hide_border=true&title_color=f6abd0&text_color=ffffff&bg_color=0d1117" />
+      </td>
+      <td>
+        <img width="85%"  src="https://github-readme-stats.vercel.app/api?username=Andressa-Santiago&show_icons=true&theme=github_dark&hide_border=true&title_color=f6abd0&icon_color=c599de&text_color=ffffff&include_all_commits=true" />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 <div align="center" style="display: inline_block"><br>
