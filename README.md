@@ -84,7 +84,7 @@
 <p align="center">
       <samp>
         ♡ <a href="https://github.com/Andressa-Santiago">projetos</a> ⊹
-        <a href="https://www.linkedin.com/in/dressa-santiago/">portfolio</a> ⊹
+        <a href="https://www.behance.net/andresssantiag4">portfolio</a> ⊹
         <a href="mailto:pro.andressasanti@gmail.com">contato</a> ♡
       </samp>
   </p>
