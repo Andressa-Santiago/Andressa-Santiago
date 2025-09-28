@@ -40,7 +40,7 @@
     </summary>
     <br>
 <div align="center">
-<img src="tps://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Santiago&layout=compact&hide_border=true&title_color=5badc7&text_color=ffffff&bg_color=0d1117" alt="">
+<p><img src="tps://github-readme-stats.vercel.app/api/top-langs/?username=Andressa-Santiago&layout=compact&hide_border=true&title_color=5badc7&text_color=ffffff&bg_color=0d1117" alt=""></p>
 </div>
 
 <div align="center" style="display: inline_block"><br>
