@@ -99,7 +99,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc3f7?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dressa-santiago/)  <!-- Botão do LinkedIn -->
   
 </div>
-##  <!-- Separador visual -->
 
 </details>  <!-- Fim da seção expansível -->
 
