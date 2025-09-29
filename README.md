@@ -79,7 +79,7 @@
 
 <div align="center">
 
-  [![Gmail](https://img.shields.io/badge/Gmail-ffc3f7?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:pro.andressasanti@gmail.com)
+  [![Gmail](https://img.shields.io/badge/Gmail-ffc3f7?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pro.andressasanti@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc3f7?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dressa-santiago/)
   [![GitHub](https://img.shields.io/badge/GitHub-ffc3f7?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Andressa-Santiago)
   
