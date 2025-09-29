@@ -81,22 +81,8 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-ffc3f7?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pro.andressasanti@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc3f7?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dressa-santiago/)
-  [![GitHub](https://img.shields.io/badge/GitHub-ffc3f7?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/Andressa-Santiago)
   
 </div>
-
-<div align="center">
-
-<p align="center">
-      <samp>
-        ♡ <a href="https://github.com/Andressa-Santiago">projetos</a> ⊹
-        <a href="https://www.behance.net/andresssantiag4">portfolio</a> ⊹
-        <a href="mailto:pro.andressasanti@gmail.com">contato</a> ♡
-      </samp>
-  </p>
-
-</div>
-
 ##
 
 </details>
