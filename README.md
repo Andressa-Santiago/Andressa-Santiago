@@ -97,7 +97,8 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-ffc3f7?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:pro.andressasanti@gmail.com)         <!-- Botão do Gmail -->
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-ffc3f7?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dressa-santiago/)  <!-- Botão do LinkedIn -->
-  
+  [![Portfolio](https://img.shields.io/badge/Behance-ffc3f7?style=for-the-badge&logo=Behance&logoColor=fff)](https://www.behance.net/andresssantiag4) <!-- Botão do Behance -->
+
 </div>
 
 </details>  <!-- Fim da seção expansível -->
